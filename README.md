@@ -57,5 +57,3 @@ Player 2's turn...
 ## Author
 Cezar Pedroso
 
-Enjoy the game!
-
